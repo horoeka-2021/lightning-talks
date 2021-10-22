@@ -16,9 +16,9 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              |              |
-| 2     |         |                                |              |              |
-| 3     |         |                                |              |              |
+| 1     | Troy    | Steve Wozniak                  |              |              |
+| 2     |         |                                | Troy         |              |
+| 3     |         |                                |              | Troy         |
 | 4     |         |                                |              |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
@@ -120,6 +120,6 @@
   - [ ] Richard Stallman
   - [ ] Roy Fielding
   - [ ] Sandi Metz
-  - [ ] Steve Wozniak
+  - [x] Steve Wozniak
 
 - _Any other topic that will be interesting for people_ (validate with teacher first)
