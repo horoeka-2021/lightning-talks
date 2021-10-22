@@ -17,8 +17,8 @@
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
 | 1     | Troy    |Default parameters Rest & Spread|              |              |
-| 2     |         |                                |              |              |
-| 3     |         |                                |              |              |
+| 2     |         |                                | Troy         |              |
+| 3     |         |                                |              | Troy         |
 | 4     |         |                                |              |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
@@ -60,7 +60,7 @@
   - [ ] `Array.from()`, `Array.fill()`
   - [ ] Asynchronous JavaScript with Generators
   - [ ] Babel & Transpiling
-  - [ ] Default parameters, Rest & Spread operators
+  - [x] Default parameters, Rest & Spread operators
   - [ ] Destructuring
   - [ ] `Map` and `Set`
 
