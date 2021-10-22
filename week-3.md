@@ -16,7 +16,7 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              |              |
+| 1     | Troy    |Default parameters Rest & Spread|              |              |
 | 2     |         |                                |              |              |
 | 3     |         |                                |              |              |
 | 4     |         |                                |              |              |
