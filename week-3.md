@@ -38,12 +38,12 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              | Nathan       |
+| 1     | Goretti |         Alan Turing            |              | Nathan       |
 | 2     |         |                                | Nathan       |              |
 | 3     |         |                                |              |              |
-| 4     | Nathan  |   SQL Injection Attack         |              |              |
+| 4     | Nathan  |   SQL Injection Attack         | Goretti      |              |
 | 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+| 6     |         |                                | Goretti      |              |
 
 ## Topics
 
@@ -97,7 +97,7 @@
 
 - Famous Programmers
   - [ ] Ada Lovelace
-  - [ ] Alan Turing
+  - [x] Alan Turing
   - [ ] Annie Easley
   - [ ] Charles Babbidge
   - [ ] David Heinemeier Hansson (DHH)
