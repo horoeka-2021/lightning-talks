@@ -38,10 +38,10 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              |              |
-| 2     |         |                                |              |              |
+| 1     |         |                                |              | Nathan       |
+| 2     |         |                                | Nathan       |              |
 | 3     |         |                                |              |              |
-| 4     |         |                                |              |              |
+| 4     | Nathan  |   SQL Injection Attack         |              |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
 
@@ -53,7 +53,7 @@
   - [ ] Cross site scripting
   - [ ] Fundamentals of encryption
   - [ ] Heartbleed SSH vulnerability
-  - [ ] SQL Injection attack
+  - [x] SQL Injection attack
 
 - ECMAScript 6 (ES6)
 
