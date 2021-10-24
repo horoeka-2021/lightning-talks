@@ -16,10 +16,10 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Troy    |Default parameters Rest & Spread| Tommy        |              |
+| 1     | Troy    |Default parameters Rest & Spread| Tommy        | Sean         |
 | 2     | Ben     |git blame                       | Troy         | Tommy        |
-| 3     | Tommy   |Git rebase                      |              | Troy         |
-| 4     |         |                                |              |              |
+| 3     | Tommy   |Git rebase                      | Sean         | Troy         |
+| 4     | Sean    |Alan Turing                     |              |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
 
