@@ -74,7 +74,7 @@
 
   - [x] `git blame`
   - [ ] `git cherry-pick`
-  - [ ] `git rebase`
+  - [x] `git rebase`
 
 - Algorithms
 
