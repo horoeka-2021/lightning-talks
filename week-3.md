@@ -16,9 +16,9 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Troy    |Default parameters Rest & Spread|              |              |
-| 2     | Ben     |git blame                       | Troy         |              |
-| 3     |         |                                |              | Troy         |
+| 1     | Troy    |Default parameters Rest & Spread| Tommy        |              |
+| 2     | Ben     |git blame                       | Troy         | Tommy        |
+| 3     | Tommy   |Git rebase                      |              | Troy         |
 | 4     |         |                                |              |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
