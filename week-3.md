@@ -17,7 +17,7 @@
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
 | 1     | Troy    |Default parameters Rest & Spread|              |              |
-| 2     |         |                                | Troy         |              |
+| 2     | Ben     |git blame                       | Troy         |              |
 | 3     |         |                                |              | Troy         |
 | 4     |         |                                |              |              |
 | 5     |         |                                |              |              |
@@ -72,7 +72,7 @@
 
 - Git commands
 
-  - [ ] `git blame`
+  - [x] `git blame`
   - [ ] `git cherry-pick`
   - [ ] `git rebase`
 
