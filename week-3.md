@@ -27,7 +27,7 @@
 
 | Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---: | :----------: | :----------: |
-| 1     |         |       |              |              |
+| 1     | Josh        | Lodash      |              |              |
 | 2     |         |       |              |              |
 | 3     |         |       |              |              |
 | 4     |         |       |              |              |
@@ -86,7 +86,7 @@
 
   - [x] Angular
   - [ ] Immutable.js
-  - [ ] Lodash
+  - [x ] Lodash
   - [ ] rx.js (hard)
   - [ ] Zepto
 
