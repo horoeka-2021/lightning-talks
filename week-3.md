@@ -40,10 +40,10 @@
 | ----- | :------: | :------------------: | :----------: | :----------: |
 | 1     | Goretti  |     Alan Turing      |     Nicky    |    Nathan    |
 | 2     | Julianne |       Angular        |    Nathan    |   Julianne   |
-| 3     |  Nicky   |      Milligram       |              |              |
+| 3     |  Nicky   |      Milligram       |    Tane      |              |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
-| 5     |          |                      |              |              |
-| 6     |          |                      |   Goretti    |              |
+| 5     |          |                      |    Tane      |              |
+| 6     | Tane     | Funds of encryption  |   Goretti    |              |
 
 ## Topics
 
@@ -51,7 +51,7 @@
 
   - [ ] CORS
   - [ ] Cross site scripting
-  - [ ] Fundamentals of encryption
+  - [x] Fundamentals of encryption
   - [ ] Heartbleed SSH vulnerability
   - [x] SQL Injection attack
 
