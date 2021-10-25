@@ -27,7 +27,7 @@
 
 | Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---: | :----------: | :----------: |
-| 1     | Josh        | Lodash      |              |              |
+| 1     | Josh    | Lodash|              |              |
 | 2     |         |       |              |              |
 | 3     |         |       |              |              |
 | 4     |         |       |              |              |
@@ -40,7 +40,7 @@
 | ----- | :------: | :------------------: | :----------: | :----------: |
 | 1     | Goretti  |     Alan Turing      |     Nicky    |    Nathan    |
 | 2     | Julianne |       Angular        |    Nathan    |   Julianne   |
-| 3     |  Nicky   |      Milligram       |    Tane      |              |
+| 3     |  Nicky   |   Destructuring      |    Tane      |              |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
 | 5     |          |                      |    Tane      |              |
 | 6     | Tane     | Funds of encryption  |   Goretti    |              |
@@ -61,7 +61,7 @@
   - [ ] Asynchronous JavaScript with Generators
   - [ ] Babel & Transpiling
   - [x] Default parameters, Rest & Spread operators
-  - [ ] Destructuring
+  - [x] Destructuring
   - [ ] `Map` and `Set`
 
 - Relational databases
@@ -86,13 +86,13 @@
 
   - [x] Angular
   - [ ] Immutable.js
-  - [x ] Lodash
+  - [x] Lodash
   - [ ] rx.js (hard)
   - [ ] Zepto
 
 - UI Framework
 
-  - [x] Milligram
+  - [ ] Milligram
   - [ ] Pure
 
 - Famous Programmers
