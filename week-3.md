@@ -14,36 +14,36 @@
 
 ### Group 1
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Troy    |Default parameters Rest & Spread| Tommy        | Sean         |
-| 2     | Ben     |git blame                       | Troy         | Tommy        |
-| 3     | Tommy   |Git rebase                      | Sean         | Troy         |
-| 4     | Sean    |Alan Turing                     |              |              |
-| 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+| Order | Speaker |              Topic               | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :------------------------------: | :----------: | :----------: |
+| 1     |  Troy   | Default parameters Rest & Spread |    Tommy     |     Sean     |
+| 2     |   Ben   |            git blame             |     Troy     |    Tommy     |
+| 3     |  Tommy  |            Git rebase            |     Sean     |     Troy     |
+| 4     |  Sean   |           Alan Turing            |   Crystal    |              |
+| 5     | Crystal |    Common sorting algorithms     |              |              |
+| 6     |         |                                  |              |   Crystal    |
 
 ### Group 2
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              |              |
-| 2     |         |                                |              |              |
-| 3     |         |                                |              |              |
-| 4     |         |                                |              |              |
-| 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+| Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :---: | :----------: | :----------: |
+| 1     |         |       |              |              |
+| 2     |         |       |              |              |
+| 3     |         |       |              |              |
+| 4     |         |       |              |              |
+| 5     |         |       |              |              |
+| 6     |         |       |              |              |
 
 ### Group 3
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Goretti |         Alan Turing            |              | Nathan       |
-| 2     | Julianne|          Angular               | Nathan       | Julianne     |
-| 3     |         |                                |              |              |
-| 4     | Nathan  |   SQL Injection Attack         | Goretti      | Julianne     |
-| 5     |         |                                |              |              |
-| 6     |         |                                | Goretti      |              |
+| Order | Speaker  |        Topic         | Feedbacker 1 | Feedbacker 2 |
+| ----- | :------: | :------------------: | :----------: | :----------: |
+| 1     | Goretti  |     Alan Turing      |              |    Nathan    |
+| 2     | Julianne |       Angular        |    Nathan    |   Julianne   |
+| 3     |          |                      |              |              |
+| 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
+| 5     |          |                      |              |              |
+| 6     |          |                      |   Goretti    |              |
 
 ## Topics
 
@@ -80,11 +80,11 @@
 
   - [ ] Big O notation
   - [ ] Binary search & Git bisect
-  - [ ] Common sorting algorithms
+  - [x] Common sorting algorithms
 
 - JavaScript libraries
 
-  - [X] Angular
+  - [x] Angular
   - [ ] Immutable.js
   - [ ] Lodash
   - [ ] rx.js (hard)
