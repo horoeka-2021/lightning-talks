@@ -39,9 +39,9 @@
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
 | 1     | Goretti |         Alan Turing            |              | Nathan       |
-| 2     |         |                                | Nathan       |              |
+| 2     | Julianne|          Angular               | Nathan       | Julianne     |
 | 3     |         |                                |              |              |
-| 4     | Nathan  |   SQL Injection Attack         | Goretti      |              |
+| 4     | Nathan  |   SQL Injection Attack         | Goretti      | Julianne     |
 | 5     |         |                                |              |              |
 | 6     |         |                                | Goretti      |              |
 
@@ -84,7 +84,7 @@
 
 - JavaScript libraries
 
-  - [ ] Angular
+  - [X] Angular
   - [ ] Immutable.js
   - [ ] Lodash
   - [ ] rx.js (hard)
