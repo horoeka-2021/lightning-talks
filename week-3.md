@@ -19,9 +19,9 @@
 | 1     |  Troy   | Default parameters Rest & Spread |    Tommy     |     Sean     |
 | 2     |   Ben   |            git blame             |     Troy     |    Tommy     |
 | 3     |  Tommy  |            Git rebase            |     Sean     |     Troy     |
-| 4     |  Sean   |           Alan Turing            |   Crystal    |              |
+| 4     |  Sean   |           Alan Turing            |   Crystal    |      ben     |
 | 5     | Crystal |    Common sorting algorithms     |   ying       |              |
-| 6     |   Ying  |           Big O notation         |              |   Crystal    | 
+| 6     |   Ying  |           Big O notation         |     ben      |   Crystal    | 
 
 ### Group 2
 
