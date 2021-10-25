@@ -38,7 +38,7 @@
 
 | Order | Speaker  |        Topic         | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :------------------: | :----------: | :----------: |
-| 1     | Goretti  |     Alan Turing      |              |    Nathan    |
+| 1     | Goretti  |     Alan Turing      |     Nicky    |    Nathan    |
 | 2     | Julianne |       Angular        |    Nathan    |   Julianne   |
 | 3     |  Nicky   |      Milligram       |              |              |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
