@@ -27,8 +27,8 @@
 
 | Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---: | :----------: | :----------: |
-| 1     | Josh    | Lodash|              |              |
-| 2     |         |       |              |              |
+| 1     | Josh    | Lodash|    Vimal  |              |
+| 2     | Vimal   |Destructuring|              |              |
 | 3     |         |       |              |              |
 | 4     |         |       |              |              |
 | 5     |         |       |              |              |
