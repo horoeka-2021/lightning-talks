@@ -25,14 +25,14 @@
 
 ### Group 2
 
-| Order | Speaker | Topic | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :---: | :----------: | :----------: |
-| 1     | Josh    | Lodash|    Vimal  |              |
-| 2     | Vimal   |Destructuring|              |              |
-| 3     |         |       |              |              |
-| 4     |         |       |              |              |
-| 5     |         |       |              |              |
-| 6     |         |       |              |              |
+| Order | Speaker | Topic                               | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :----------------------------------:| :----------: | :----------: |
+| 1     | Josh    | Lodash                              |    Vimal     |   James      |
+| 2     | Vimal   | Destructuring|                      |    James     |              |
+| 3     | James   | CORS or Cross Site Scripting (tbc)  |              |              |
+| 4     |         |                                     |              |              |
+| 5     |         |                                     |                             |
+| 6     |         |                                     |              |              |
 
 ### Group 3
 
@@ -49,8 +49,8 @@
 
 - Security
 
-  - [ ] CORS
-  - [ ] Cross site scripting
+  - [X] CORS
+  - [X] Cross site scripting
   - [x] Fundamentals of encryption
   - [ ] Heartbleed SSH vulnerability
   - [x] SQL Injection attack
