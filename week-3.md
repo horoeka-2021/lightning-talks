@@ -28,8 +28,8 @@
 | Order | Speaker | Topic                               | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------------:| :----------: | :----------: |
 | 1     | Josh    | Lodash                              |    Vimal     |   James      |
-| 2     | Vimal   | Destructuring|                      |    James     |              |
-| 3     | James   | CORS or Cross Site Scripting (tbc)  |              |              |
+| 2     | Vimal   | Destructuring|                      |    James     |   Lauren     |
+| 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |              |
 | 4     | Lauren  | Heartbleed SSH vulnerability        |              |              |
 | 5     |         |                                     |                             |
 | 6     |         |                                     |              |              |
