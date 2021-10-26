@@ -18,7 +18,7 @@
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
 | 1     | Troy    | Steve Wozniak                  |              |              |
 | 2     |         |                                | Troy         |              |
-| 3     | Nicky   |  Tailwind                      |              | Troy         |
+| 3     |         |                                |              | Troy         |
 | 4     |         |                                |              |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
@@ -27,8 +27,8 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              |              |
-| 2     |         |                                |              |              |
+| 1     | Lauren  | Hedy Lamarr                    |              |              |
+| 2     |         |                                |  Lauren      |              |
 | 3     |         |                                |              |              |
 | 4     |         |                                |              |              |
 | 5     |         |                                |              |              |
@@ -108,14 +108,14 @@
 
 - UI Framework
 
-  - [x] TailwindCSS
+  - [ ] TailwindCSS
   - [ ] UIkit
 
 * Famous Programmers
   - [ ] Audrey Tang
   - [ ] Barbara Liskov
   - [ ] Brendan Eich
-  - [ ] Hedy Lamarr
+  - [x] Hedy Lamarr
   - [ ] Mary Wilkes
   - [ ] Richard Stallman
   - [ ] Roy Fielding
