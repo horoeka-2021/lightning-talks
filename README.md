@@ -8,7 +8,7 @@ Based on the week you're in, select the appropriate file in this repo and follow
 
 Talks can be 3 - 5mins. Usually Lightning Talks are done with a whiteboard presentation. But since we are online we suggest using these resources for a board layout:
 - https://miro.com/online-whiteboard/
-- https://start.mural.co/free-forever
+- https://www.mural.co/
 
 Or use Google Slides.
 
