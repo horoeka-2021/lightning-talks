@@ -29,9 +29,9 @@
 | ----- | :-----: | :----------------------------------:| :----------: | :----------: |
 | 1     | Josh    | Lodash                              |    Vimal     |   James      |
 | 2     | Vimal   | Destructuring|                      |    James     |   Lauren     |
-| 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |              |
-| 4     | Lauren  | Heartbleed SSH vulnerability        |              |              |
-| 5     |         |                                     |              |              |
+| 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |   Angus      |
+| 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |              |
+| 5     | Angus   | Pure                                |              |              |
 | 6     |         |                                     |              |              |
 
 ### Group 3
@@ -93,7 +93,7 @@
 - UI Framework
 
   - [ ] Milligram
-  - [ ] Pure
+  - [X] Pure
 
 - Famous Programmers
   - [ ] Ada Lovelace
