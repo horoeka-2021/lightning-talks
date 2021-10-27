@@ -42,13 +42,8 @@
 | 2     | Julianne |       Angular        |              |     Nicky    |
 | 3     |  Nicky   |   Destructuring      |    Tane      |   Julianne   |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
-<<<<<<< HEAD
 | 5     |  Seshan  |   Linus Torvalds     |    Tane      |              |
-| 6     | Tane     | Funds of encryption  |   Goretti    |              |
-=======
-| 5     |          |                      |    Tane      |   Nathan     |
-| 6     | Tane     | Funds of encryption  |   Goretti    |   Rav        |
->>>>>>> 4d74d48702b23e35ffdcf45fbfe8cf4d3ff9d4a2
+| 6     |  Tane    |  Funds of encryption |   Goretti    |              |
 
 ## Topics
 
