@@ -20,7 +20,7 @@
 | 2     |   Ben   |            git blame             |     Troy     |    Tommy     |
 | 3     |  Tommy  |            Git rebase            |     Sean     |     Troy     |
 | 4     |  Sean   |           Alan Turing            |   Crystal    |      ben     |
-| 5     | Crystal |    Common sorting algorithms     |   ying       |              |
+| 5     | Crystal |    Common sorting algorithms     |   ying       |      Rav     |
 | 6     |   Ying  |           Big O notation         |     ben      |   Crystal    | 
 
 ### Group 2
@@ -28,22 +28,27 @@
 | Order | Speaker | Topic                               | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------------:| :----------: | :----------: |
 | 1     | Josh    | Lodash                              |    Vimal     |   James      |
-| 2     | Vimal   | Destructuring|                      |    James     |              |
-| 3     | James   | CORS or Cross Site Scripting (tbc)  |              |              |
-| 4     | Lauren  | Heartbleed SSH vulnerability        |              |              |
-| 5     |         |                                     |                             |
-| 6     |         |                                     |              |              |
+| 2     | Vimal   | Destructuring|                      |    James     |   Lauren     |
+| 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |   Angus      |
+| 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |              |
+| 5     | Angus   | Pure                                |       Josh       |              |
+| 6     | Rav     | Database indexes                    |     Josh         |              |
 
 ### Group 3
 
 | Order | Speaker  |        Topic         | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :------------------: | :----------: | :----------: |
 | 1     | Goretti  |     Alan Turing      |     Nicky    |    Nathan    |
-| 2     | Julianne |       Angular        |    Nathan    |     Nicky    |
+| 2     | Julianne |       Angular        |              |     Nicky    |
 | 3     |  Nicky   |   Destructuring      |    Tane      |   Julianne   |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
+<<<<<<< HEAD
 | 5     |  Seshan  |   Linus Torvalds     |    Tane      |              |
 | 6     | Tane     | Funds of encryption  |   Goretti    |              |
+=======
+| 5     |          |                      |    Tane      |   Nathan     |
+| 6     | Tane     | Funds of encryption  |   Goretti    |   Rav        |
+>>>>>>> 4d74d48702b23e35ffdcf45fbfe8cf4d3ff9d4a2
 
 ## Topics
 
@@ -66,7 +71,7 @@
 
 - Relational databases
 
-  - [ ] Database indexes
+  - [x] Database indexes
   - [ ] DDL, DNL, DCL, TCL
   - [ ] SQL joins (left, right, inner, outer, full)
 
@@ -93,7 +98,7 @@
 - UI Framework
 
   - [ ] Milligram
-  - [ ] Pure
+  - [X] Pure
 
 - Famous Programmers
   - [ ] Ada Lovelace
