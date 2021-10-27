@@ -31,8 +31,8 @@
 | 2     | Vimal   | Destructuring|                      |    James     |   Lauren     |
 | 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |   Angus      |
 | 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |              |
-| 5     | Angus   | Pure                                |              |              |
-| 6     | Rav     | Database indexes                    |              |              |
+| 5     | Angus   | Pure                                |       Josh       |              |
+| 6     | Rav     | Database indexes                    |     Josh         |              |
 
 ### Group 3
 
