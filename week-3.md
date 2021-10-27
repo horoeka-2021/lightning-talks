@@ -20,7 +20,7 @@
 | 2     |   Ben   |            git blame             |     Troy     |    Tommy     |
 | 3     |  Tommy  |            Git rebase            |     Sean     |     Troy     |
 | 4     |  Sean   |           Alan Turing            |   Crystal    |      ben     |
-| 5     | Crystal |    Common sorting algorithms     |   ying       |              |
+| 5     | Crystal |    Common sorting algorithms     |   ying       |      Rav     |
 | 6     |   Ying  |           Big O notation         |     ben      |   Crystal    | 
 
 ### Group 2
@@ -32,7 +32,7 @@
 | 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |   Angus      |
 | 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |              |
 | 5     | Angus   | Pure                                |              |              |
-| 6     |         |                                     |              |              |
+| 6     | Rav     | Database indexes                    |              |              |
 
 ### Group 3
 
@@ -43,7 +43,7 @@
 | 3     |  Nicky   |   Destructuring      |    Tane      |   Julianne   |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
 | 5     |          |                      |    Tane      |              |
-| 6     | Tane     | Funds of encryption  |   Goretti    |            |
+| 6     | Tane     | Funds of encryption  |   Goretti    |   Rav        |
 
 ## Topics
 
@@ -66,7 +66,7 @@
 
 - Relational databases
 
-  - [ ] Database indexes
+  - [x] Database indexes
   - [ ] DDL, DNL, DCL, TCL
   - [ ] SQL joins (left, right, inner, outer, full)
 
