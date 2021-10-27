@@ -103,6 +103,6 @@
   - [ ] David Heinemeier Hansson (DHH)
   - [ ] Grace Hopper
   - [ ] Ken Thompson
-  - [ ] Linus Torvalds
+  - [x] Linus Torvalds
   - [ ] Margaret Hamilton
   - [ ] Radia Perlman
