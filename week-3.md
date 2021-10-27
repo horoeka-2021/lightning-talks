@@ -30,20 +30,20 @@
 | 1     | Josh    | Lodash                              |    Vimal     |   James      |
 | 2     | Vimal   | Destructuring|                      |    James     |   Lauren     |
 | 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |   Angus      |
-| 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |              |
-| 5     | Angus   | Pure                                |       Josh       |              |
-| 6     | Rav     | Database indexes                    |     Josh         |              |
+| 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |  Rav         |
+| 5     | Angus   | Pure                                |       Josh   |   Rav        |
+| 6     | Rav     | Database indexes                    |     Josh     |     Vimal    |
 
 ### Group 3
 
 | Order | Speaker  |        Topic         | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :------------------: | :----------: | :----------: |
 | 1     | Goretti  |     Alan Turing      |     Nicky    |    Nathan    |
-| 2     | Julianne |       Angular        |              |     Nicky    |
+| 2     | Julianne |       Angular        |      Seshan  |     Nicky    |
 | 3     |  Nicky   |   Destructuring      |    Tane      |   Julianne   |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
 | 5     |  Seshan  |   Linus Torvalds     |    Tane      |    Nathan    |
-| 6     |  Tane    |  Funds of encryption |   Goretti    |       Rav    |
+| 6     |  Tane    |  Funds of encryption |   Goretti    |     Seshan   |
 
 ## Topics
 
