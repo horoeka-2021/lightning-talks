@@ -42,8 +42,8 @@
 | 2     | Julianne |       Angular        |    Nathan    |     Nicky    |
 | 3     |  Nicky   |   Destructuring      |    Tane      |   Julianne   |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
-| 5     |          |                      |    Tane      |              |
-| 6     | Tane     | Funds of encryption  |   Goretti    |            |
+| 5     |  Seshan  |   Linus Torvalds     |    Tane      |              |
+| 6     | Tane     | Funds of encryption  |   Goretti    |              |
 
 ## Topics
 
@@ -103,6 +103,6 @@
   - [ ] David Heinemeier Hansson (DHH)
   - [ ] Grace Hopper
   - [ ] Ken Thompson
-  - [ ] Linus Torvalds
+  - [x] Linus Torvalds
   - [ ] Margaret Hamilton
   - [ ] Radia Perlman
