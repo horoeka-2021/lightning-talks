@@ -39,10 +39,10 @@
 | Order | Speaker  |        Topic         | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :------------------: | :----------: | :----------: |
 | 1     | Goretti  |     Alan Turing      |     Nicky    |    Nathan    |
-| 2     | Julianne |       Angular        |    Nathan    |     Nicky    |
+| 2     | Julianne |       Angular        |              |     Nicky    |
 | 3     |  Nicky   |   Destructuring      |    Tane      |   Julianne   |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
-| 5     |          |                      |    Tane      |              |
+| 5     |          |                      |    Tane      |   Nathan     |
 | 6     | Tane     | Funds of encryption  |   Goretti    |   Rav        |
 
 ## Topics
