@@ -17,10 +17,10 @@
 | Order | Speaker |              Topic               | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :------------------------------: | :----------: | :----------: |
 | 1     |  Troy   | Default parameters Rest & Spread |    Tommy     |     Sean     |
-| 2     |   Ben   |            git blame             |     Troy     |    Tommy     |
+| 2     |   Ben   |            git blame             |     Ying     |    Tommy     |
 | 3     |  Tommy  |            Git rebase            |     Sean     |     Troy     |
 | 4     |  Sean   |           Alan Turing            |   Crystal    |      ben     |
-| 5     | Crystal |    Common sorting algorithms     |   ying       |              |
+| 5     | Crystal |    Common sorting algorithms     |   ying       |      Troy    |
 | 6     |   Ying  |           Big O notation         |     ben      |   Crystal    | 
 
 ### Group 2
