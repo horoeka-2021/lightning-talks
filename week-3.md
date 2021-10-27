@@ -20,7 +20,7 @@
 | 2     |   Ben   |            git blame             |     Troy     |    Tommy     |
 | 3     |  Tommy  |            Git rebase            |     Sean     |     Troy     |
 | 4     |  Sean   |           Alan Turing            |   Crystal    |      ben     |
-| 5     | Crystal |    Common sorting algorithms     |   ying       |      Rav     |
+| 5     | Crystal |    Common sorting algorithms     |   ying       |              |
 | 6     |   Ying  |           Big O notation         |     ben      |   Crystal    | 
 
 ### Group 2
