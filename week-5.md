@@ -19,7 +19,7 @@
 | 1     | Troy    | Steve Wozniak                  |              |              |
 | 2     |         |                                | Troy         |              |
 | 3     |         |                                |              | Troy         |
-| 4     |         |                                |              |              |
+| 4     |         | TailwindCSS                    | Nicky        |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
 
@@ -108,7 +108,7 @@
 
 - UI Framework
 
-  - [ ] TailwindCSS
+  - [x] TailwindCSS
   - [ ] UIkit
 
 * Famous Programmers
