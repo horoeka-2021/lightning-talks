@@ -29,7 +29,7 @@
 | ----- | :-----: | :----------------------------------:| :----------: | :----------: |
 | 1     | Josh    | Lodash                              |    Vimal     |   James      |
 | 2     | Vimal   | Destructuring                       |    James     |   Lauren     |
-| 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |   Angus      |
+| 3     | James   | CORS                                |    Lauren    |   Angus      |
 | 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |  Rav         |
 | 5     | Angus   | Pure                                |       Josh   |   Rav        |
 | 6     | Rav     | Database indexes                    |     Josh     |     Vimal    |
@@ -50,7 +50,7 @@
 - Security
 
   - [X] CORS
-  - [X] Cross site scripting
+  - [ ] Cross site scripting
   - [x] Fundamentals of encryption
   - [x] Heartbleed SSH vulnerability
   - [x] SQL Injection attack
