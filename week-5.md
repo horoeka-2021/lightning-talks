@@ -16,12 +16,12 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Troy    | Steve Wozniak                  |              |              |
+| 1     | Troy    | Steve Wozniak                  | Nicky        |              |
 | 2     |         |                                | Troy         |              |
-| 3     |         |                                |              | Troy         |
-| 4     |         | TailwindCSS                    | Nicky        |              |
+| 3     |         |                                |              |  Troy        |
+| 4     | Nicky   | TailwindCSS                    |              |              |
 | 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+| 6     |         |                                |              |  Nicky       |
 
 ### Group 2
 
