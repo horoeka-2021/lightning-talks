@@ -16,10 +16,10 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Troy    | Steve Wozniak                  | Nicky        |              |
-| 2     |         |                                | Troy         |              |
+| 1     | Troy    | Steve Wozniak                  | Nicky        |  Julianne    |
+| 2     | Julianne| TypeScript                     | Troy         |              |
 | 3     |         |                                |              |  Troy        |
-| 4     | Nicky   | TailwindCSS                    |              |              |
+| 4     | Nicky   | TailwindCSS                    |  Julianne    |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |  Nicky       |
 
@@ -85,7 +85,7 @@
 
 - Transpiled languages
 
-  - [ ] TypeScript
+  - [X] TypeScript
   - [ ] CoffeeScript
   - [ ] ClosureScript
   - [ ] Elm
