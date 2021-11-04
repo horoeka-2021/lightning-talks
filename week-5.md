@@ -38,12 +38,12 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              |              |
-| 2     |         |                                |              |              |
+| 1     |         |                                |              | Goretti      |
+| 2     | Goretti |Brendan Eich                    |              |              |
 | 3     |         |                                |              |              |
 | 4     |         |                                |              |              |
 | 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+| 6     |         |                                |Goretti       |              |
 
 ## Topics
 
@@ -114,7 +114,7 @@
 * Famous Programmers
   - [ ] Audrey Tang
   - [ ] Barbara Liskov
-  - [ ] Brendan Eich
+  - [x] Brendan Eich
   - [x] Hedy Lamarr
   - [ ] Mary Wilkes
   - [ ] Richard Stallman
