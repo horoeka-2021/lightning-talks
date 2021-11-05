@@ -14,36 +14,36 @@
 
 ### Group 1
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Troy    | Steve Wozniak                  | Nicky        |  Julianne    |
-| 2     | Julianne| TypeScript                     | Troy         |              |
-| 3     |         |                                |              |  Troy        |
-| 4     | Nicky   | TailwindCSS                    |  Julianne    |              |
-| 5     |         |                                |              |              |
-| 6     |         |                                |              |  Nicky       |
+| Order | Speaker  |     Topic     | Feedbacker 1 | Feedbacker 2 |
+| ----- | :------: | :-----------: | :----------: | :----------: |
+| 1     |   Troy   | Steve Wozniak |    Nicky     |   Julianne   |
+| 2     | Julianne |  TypeScript   |     Troy     |              |
+| 3     |          |               |              |     Troy     |
+| 4     |  Nicky   |  TailwindCSS  |   Julianne   |              |
+| 5     |          |               |              |              |
+| 6     |          |               |              |    Nicky     |
 
 ### Group 2
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Lauren  | Hedy Lamarr                    |              |              |
-| 2     |  ben    |   three.js                     |  Lauren      |              |
-| 3     |         |                                |   ben        |              |
-| 4     |         |                                |              |       ben    |
-| 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+| Order | Speaker |    Topic    | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :---------: | :----------: | :----------: |
+| 1     | Lauren  | Hedy Lamarr |    Vimal     |              |
+| 2     |   ben   |  three.js   |    Lauren    |              |
+| 3     |  Vimal  | TypeScript  |     ben      |              |
+| 4     |         |             |    Vimal     |     ben      |
+| 5     |         |             |              |              |
+| 6     |         |             |              |              |
 
 ### Group 3
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              | Goretti      |
-| 2     | Goretti |Brendan Eich                    |              |              |
-| 3     |         |                                |              |              |
-| 4     |         |                                |              |              |
-| 5     |         |                                |              |              |
-| 6     |         |                                |Goretti       |              |
+| Order | Speaker |    Topic     | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :----------: | :----------: | :----------: |
+| 1     |         |              |              |   Goretti    |
+| 2     | Goretti | Brendan Eich |              |              |
+| 3     |         |              |              |              |
+| 4     |         |              |              |              |
+| 5     |         |              |              |              |
+| 6     |         |              |   Goretti    |              |
 
 ## Topics
 
@@ -85,7 +85,7 @@
 
 - Transpiled languages
 
-  - [X] TypeScript
+  - [x] TypeScript
   - [ ] CoffeeScript
   - [ ] ClosureScript
   - [ ] Elm
