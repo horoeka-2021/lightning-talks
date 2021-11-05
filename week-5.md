@@ -28,9 +28,9 @@
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
 | 1     | Lauren  | Hedy Lamarr                    |              |              |
-| 2     |         |                                |  Lauren      |              |
-| 3     |         |                                |              |              |
-| 4     |         |                                |              |              |
+| 2     |  ben    |   three.js                     |  Lauren      |              |
+| 3     |         |                                |   ben        |              |
+| 4     |         |                                |              |       ben    |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
 
@@ -68,7 +68,7 @@
 - JavaScript libraries
 
   - [ ] CycleJS
-  - [ ] Three.js
+  - [x] Three.js
   - [ ] D3.js
   - [ ] Ember
 
