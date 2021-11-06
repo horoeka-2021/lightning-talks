@@ -39,11 +39,11 @@
 | Order | Speaker |    Topic     | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------: | :----------: | :----------: |
 | 1     |         |              |              |   Goretti    |
-| 2     | Goretti | Brendan Eich |              |              |
+| 2     | Goretti | Brendan Eich |              |   Nathan     |
 | 3     |         |              |              |              |
-| 4     |         |              |              |              |
+| 4     | Nathan  | UiKit        |              |              |
 | 5     |         |              |              |              |
-| 6     |         |              |   Goretti    |              |
+| 6     |         |              |   Goretti    |   Nathan     |
 
 ## Topics
 
@@ -109,7 +109,7 @@
 - UI Framework
 
   - [x] TailwindCSS
-  - [ ] UIkit
+  - [x] UIkit
 
 * Famous Programmers
   - [ ] Audrey Tang
