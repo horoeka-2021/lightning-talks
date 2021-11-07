@@ -75,7 +75,7 @@
 - Code smells
 
   - [ ] Purposeless conditions
-  - [ ] Functions that do more than one thing
+  - [x] Functions that do more than one thing
   - [ ] Cyclomatic complexity [link](http://webuniverse.io/cyclomatic-complexity-refactoring-tips/) [eslint rule](http://eslint.org/docs/rules/complexity)
 
 - JavaScript
