@@ -18,7 +18,7 @@
 | ----- | :------: | :-----------: | :----------: | :----------: |
 | 1     |   Troy   | Steve Wozniak |    Nicky     |   Julianne   |
 | 2     | Julianne |  TypeScript   |     Troy     |              |
-| 3     |          |               |              |     Troy     |
+| 3     |  Tane        |    How to make a Chrome Extension           |              |     Troy     |
 | 4     |  Nicky   |  TailwindCSS  |   Julianne   |              |
 | 5     |          |               |              |              |
 | 6     |          |               |              |    Nicky     |
@@ -102,7 +102,7 @@
 
 - Other types of app experiences
 
-  - [ ] How to make a Chrome Extension
+  - [x] How to make a Chrome Extension
   - [ ] How to make a Firefox plugin
   - [ ] Electron
 
