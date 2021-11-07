@@ -38,10 +38,10 @@
 
 | Order | Speaker |    Topic     | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------: | :----------: | :----------: |
-| 1     |         |              |              |   Goretti    |
-| 2     | Goretti | Brendan Eich |              |   Nathan     |
+| 1     | Sean    | Functions that do more than one thing|              |   Goretti    |
+| 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
 | 3     |         |              |              |              |
-| 4     | Nathan  | UiKit        |              |              |
+| 4     | Nathan  | UiKit        |              |Sean          |
 | 5     |         |              |              |              |
 | 6     |         |              |   Goretti    |   Nathan     |
 
