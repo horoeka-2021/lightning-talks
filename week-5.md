@@ -17,9 +17,9 @@
 | Order | Speaker  |     Topic     | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :-----------: | :----------: | :----------: |
 | 1     |   Troy   | Steve Wozniak |    Nicky     |   Julianne   |
-| 2     | Julianne |  TypeScript   |     Troy     |              |
+| 2     | Julianne |  TypeScript   |     Troy     |       Tane       |
 | 3     |  Tane        |    How to make a Chrome Extension           |              |     Troy     |
-| 4     |  Nicky   |  TailwindCSS  |   Julianne   |              |
+| 4     |  Nicky   |  TailwindCSS  |   Julianne   |          Tane    |
 | 5     |          |               |              |              |
 | 6     |          |               |              |    Nicky     |
 
