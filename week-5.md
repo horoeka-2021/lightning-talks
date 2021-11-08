@@ -42,14 +42,14 @@
 | 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
 | 3     |         |              |              |              |
 | 4     | Nathan  | UiKit        |              |Sean          |
-| 5     |         |              |              |              |
+| 5     | Tommy   | Functional Programming |              |              |
 | 6     |         |              |   Goretti    |   Nathan     |
 
 ## Topics
 
 - Functional Programming
 
-  - [ ] What is functional programming
+  - [x] What is functional programming
   - [ ] Currying and partial application
 
 - Design patterns
