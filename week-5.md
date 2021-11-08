@@ -19,8 +19,8 @@
 | 1     |   Troy   | Steve Wozniak |    Nicky     |   Julianne   |
 | 2     | Julianne |  TypeScript   |     Troy     |       Tane       |
 | 3     |  Tane        |    How to make a Chrome Extension           |   Tommy    |     Troy     |
-| 4     |  Nicky   |  TailwindCSS  |   Julianne   |          Tane    |
-| 5     |  Tommy   | What is functional programming |   James        |              |
+| 4     |  Nicky   |  TailwindCSS  |   Julianne   |          James    |
+| 5     |  Tommy   | What is functional programming |   James        |      Tane        |
 | 6     |  James   |    Mongo DB   |  Tommy       |    Nicky     |
 
 ### Group 2
