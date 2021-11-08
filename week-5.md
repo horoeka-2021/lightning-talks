@@ -18,10 +18,10 @@
 | ----- | :------: | :-----------: | :----------: | :----------: |
 | 1     |   Troy   | Steve Wozniak |    Nicky     |   Julianne   |
 | 2     | Julianne |  TypeScript   |     Troy     |       Tane       |
-| 3     |  Tane        |    How to make a Chrome Extension           |              |     Troy     |
+| 3     |  Tane        |    How to make a Chrome Extension           |   Tommy    |     Troy     |
 | 4     |  Nicky   |  TailwindCSS  |   Julianne   |          Tane    |
 | 5     |  Tommy   | What is functional programming |               |              |
-| 6     |          |               |              |    Nicky     |
+| 6     |          |               |  Tommy       |    Nicky     |
 
 ### Group 2
 
