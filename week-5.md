@@ -20,7 +20,7 @@
 | 2     | Julianne |  TypeScript   |     Troy     |       Tane       |
 | 3     |  Tane        |    How to make a Chrome Extension           |              |     Troy     |
 | 4     |  Nicky   |  TailwindCSS  |   Julianne   |          Tane    |
-| 5     |          |               |              |              |
+| 5     |  Tommy   | What is functional programming |               |              |
 | 6     |          |               |              |    Nicky     |
 
 ### Group 2
@@ -42,7 +42,7 @@
 | 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
 | 3     |         |              |              |              |
 | 4     | Nathan  | UiKit        |              |Sean          |
-| 5     | Tommy   | Functional Programming |              |              |
+| 5     |         |              |              |              |
 | 6     |         |              |   Goretti    |   Nathan     |
 
 ## Topics
