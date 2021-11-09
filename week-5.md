@@ -30,10 +30,10 @@
 | ----- | :-----: | :---------: | :----------: | :----------: |
 | 1     | Lauren  | Hedy Lamarr |    Vimal     |  Josh            |
 | 2     |   ben   |  three.js   |    Lauren    |   Josh           |
-| 3     |  Vimal  | TypeScript  |     ben      |              |
+| 3     |  Vimal  | TypeScript  |     ben      |    Crystal   |
 | 4     | Josh        | Purposeless conditions            |    Vimal     |     ben      |
-| 5     |         |             |              |              |
-| 6     |         |             |              |              |
+| 5     | Crystal |      D3.js  |              |              |
+| 6     |         |             |    Crystal   |              |
 
 ### Group 3
 
@@ -70,7 +70,7 @@
 
   - [ ] CycleJS
   - [x] Three.js
-  - [ ] D3.js
+  - [x] D3.js
   - [ ] Ember
 
 - Code smells
