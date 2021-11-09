@@ -27,10 +27,10 @@
 
 | Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Lauren  | Hedy Lamarr                    |              |              |
-| 2     |         |                                |  Lauren      |              |
+| 1     | Lauren  | Hedy Lamarr                    |              |    Josh          |
+| 2     |         |                                |  Lauren      |      Josh        |
 | 3     |         |                                |              |              |
-| 4     |         |                                |              |              |
+| 4     |  Josh       | Purposeless conditions                               |              |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
 
@@ -74,7 +74,7 @@
 
 - Code smells
 
-  - [ ] Purposeless conditions
+  - [x ] Purposeless conditions
   - [ ] Functions that do more than one thing
   - [ ] Cyclomatic complexity [link](http://webuniverse.io/cyclomatic-complexity-refactoring-tips/) [eslint rule](http://eslint.org/docs/rules/complexity)
 
