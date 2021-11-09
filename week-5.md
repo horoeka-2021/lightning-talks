@@ -25,20 +25,13 @@
 
 ### Group 2
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Lauren  | Hedy Lamarr                    |              |    Josh          |
-| 2     |         |                                |  Lauren      |      Josh        |
-| 3     |         |                                |              |              |
-| 4     |  Josh       | Purposeless conditions                               |              |              |
-| 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+
 | Order | Speaker |    Topic    | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---------: | :----------: | :----------: |
-| 1     | Lauren  | Hedy Lamarr |    Vimal     |              |
-| 2     |   ben   |  three.js   |    Lauren    |              |
+| 1     | Lauren  | Hedy Lamarr |    Vimal     |  Josh            |
+| 2     |   ben   |  three.js   |    Lauren    |   Josh           |
 | 3     |  Vimal  | TypeScript  |     ben      |              |
-| 4     |         |             |    Vimal     |     ben      |
+| 4     | Josh        | Purposeless conditions            |    Vimal     |     ben      |
 | 5     |         |             |              |              |
 | 6     |         |             |              |              |
 
@@ -82,7 +75,7 @@
 
 - Code smells
 
-  - [x ] Purposeless conditions
+  - [x] Purposeless conditions
   - [ ] Functions that do more than one thing
   - [ ] Purposeless conditions
   - [x] Functions that do more than one thing
