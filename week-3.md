@@ -17,10 +17,10 @@
 | Order | Speaker |              Topic               | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :------------------------------: | :----------: | :----------: |
 | 1     |  Troy   | Default parameters Rest & Spread |    Tommy     |     Sean     |
-| 2     |   Ben   |            git blame             |     Troy     |    Tommy     |
+| 2     |   Ben   |            git blame             |     Ying     |    Tommy     |
 | 3     |  Tommy  |            Git rebase            |     Sean     |     Troy     |
 | 4     |  Sean   |           Alan Turing            |   Crystal    |      ben     |
-| 5     | Crystal |    Common sorting algorithms     |   ying       |      Rav     |
+| 5     | Crystal |    Common sorting algorithms     |   ying       |      Troy    |
 | 6     |   Ying  |           Big O notation         |     ben      |   Crystal    | 
 
 ### Group 2
@@ -28,29 +28,29 @@
 | Order | Speaker | Topic                               | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------------------------------:| :----------: | :----------: |
 | 1     | Josh    | Lodash                              |    Vimal     |   James      |
-| 2     | Vimal   | Destructuring|                      |    James     |   Lauren     |
-| 3     | James   | CORS or Cross Site Scripting (tbc)  |    Lauren    |   Angus      |
-| 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |              |
-| 5     | Angus   | Pure                                |       Josh       |              |
-| 6     | Rav     | Database indexes                    |     Josh         |              |
+| 2     | Vimal   | Destructuring                       |    James     |   Lauren     |
+| 3     | James   | CORS                                |    Lauren    |   Angus      |
+| 4     | Lauren  | Heartbleed SSH vulnerability        |    Angus     |  Rav         |
+| 5     | Angus   | Pure                                |       Josh   |   Rav        |
+| 6     | Rav     | Database indexes                    |     Josh     |     Vimal    |
 
 ### Group 3
 
 | Order | Speaker  |        Topic         | Feedbacker 1 | Feedbacker 2 |
 | ----- | :------: | :------------------: | :----------: | :----------: |
 | 1     | Goretti  |     Alan Turing      |     Nicky    |    Nathan    |
-| 2     | Julianne |       Angular        |    Nathan    |     Nicky    |
+| 2     | Julianne |       Angular        |      Seshan  |     Nicky    |
 | 3     |  Nicky   |   Destructuring      |    Tane      |   Julianne   |
 | 4     |  Nathan  | SQL Injection Attack |   Goretti    |   Julianne   |
-| 5     |          |                      |    Tane      |              |
-| 6     | Tane     | Funds of encryption  |   Goretti    |   Rav        |
+| 5     |  Seshan  |   Linus Torvalds     |    Tane      |    Nathan    |
+| 6     |  Tane    |  Funds of encryption |   Goretti    |     Seshan   |
 
 ## Topics
 
 - Security
 
   - [X] CORS
-  - [X] Cross site scripting
+  - [ ] Cross site scripting
   - [x] Fundamentals of encryption
   - [x] Heartbleed SSH vulnerability
   - [x] SQL Injection attack
@@ -103,6 +103,6 @@
   - [ ] David Heinemeier Hansson (DHH)
   - [ ] Grace Hopper
   - [ ] Ken Thompson
-  - [ ] Linus Torvalds
+  - [x] Linus Torvalds
   - [ ] Margaret Hamilton
   - [ ] Radia Perlman

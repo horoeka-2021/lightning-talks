@@ -14,14 +14,14 @@
 
 ### Group 1
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     | Troy    | Steve Wozniak                  |              |              |
-| 2     |         |                                | Troy         |              |
-| 3     |         |                                |              | Troy         |
-| 4     |         |                                |              |              |
-| 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+| Order | Speaker  |     Topic     | Feedbacker 1 | Feedbacker 2 |
+| ----- | :------: | :-----------: | :----------: | :----------: |
+| 1     |   Troy   | Steve Wozniak |    Nicky     |   Julianne   |
+| 2     | Julianne |  TypeScript   |     Troy     |       Tane       |
+| 3     |  Tane        |    How to make a Chrome Extension           |   Tommy    |     Troy     |
+| 4     |  Nicky   |  TailwindCSS  |   Julianne   |          James    |
+| 5     |  Tommy   | What is functional programming |   James        |      Tane        |
+| 6     |  James   |    Mongo DB   |  Tommy       |    Nicky     |
 
 ### Group 2
 
@@ -33,23 +33,31 @@
 | 4     |  Josh       | Purposeless conditions                               |              |              |
 | 5     |         |                                |              |              |
 | 6     |         |                                |              |              |
+| Order | Speaker |    Topic    | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :---------: | :----------: | :----------: |
+| 1     | Lauren  | Hedy Lamarr |    Vimal     |              |
+| 2     |   ben   |  three.js   |    Lauren    |              |
+| 3     |  Vimal  | TypeScript  |     ben      |              |
+| 4     |         |             |    Vimal     |     ben      |
+| 5     |         |             |              |              |
+| 6     |         |             |              |              |
 
 ### Group 3
 
-| Order | Speaker |             Topic              | Feedbacker 1 | Feedbacker 2 |
-| ----- | :-----: | :----------------------------: | :----------: | :----------: |
-| 1     |         |                                |              |              |
-| 2     |         |                                |              |              |
-| 3     |         |                                |              |              |
-| 4     |         |                                |              |              |
-| 5     |         |                                |              |              |
-| 6     |         |                                |              |              |
+| Order | Speaker |    Topic     | Feedbacker 1 | Feedbacker 2 |
+| ----- | :-----: | :----------: | :----------: | :----------: |
+| 1     | Sean    | Functions that do more than one thing|              |   Goretti    |
+| 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
+| 3     |         |              |              |              |
+| 4     | Nathan  | UiKit        |              |Sean          |
+| 5     |         |              |              |              |
+| 6     |         |              |   Goretti    |   Nathan     |
 
 ## Topics
 
 - Functional Programming
 
-  - [ ] What is functional programming
+  - [x] What is functional programming
   - [ ] Currying and partial application
 
 - Design patterns
@@ -61,14 +69,14 @@
 - NoSQL databases
 
   - [ ] Neo4J
-  - [ ] MongoDB
+  - [X] MongoDB
   - [ ] CouchDB
   - [ ] [Secure Scuttlebutt](https://ssbc.github.io/secure-scuttlebutt/) (hard)
 
 - JavaScript libraries
 
   - [ ] CycleJS
-  - [ ] Three.js
+  - [x] Three.js
   - [ ] D3.js
   - [ ] Ember
 
@@ -76,6 +84,8 @@
 
   - [x ] Purposeless conditions
   - [ ] Functions that do more than one thing
+  - [ ] Purposeless conditions
+  - [x] Functions that do more than one thing
   - [ ] Cyclomatic complexity [link](http://webuniverse.io/cyclomatic-complexity-refactoring-tips/) [eslint rule](http://eslint.org/docs/rules/complexity)
 
 - JavaScript
@@ -85,7 +95,7 @@
 
 - Transpiled languages
 
-  - [ ] TypeScript
+  - [x] TypeScript
   - [ ] CoffeeScript
   - [ ] ClosureScript
   - [ ] Elm
@@ -102,19 +112,19 @@
 
 - Other types of app experiences
 
-  - [ ] How to make a Chrome Extension
+  - [x] How to make a Chrome Extension
   - [ ] How to make a Firefox plugin
   - [ ] Electron
 
 - UI Framework
 
-  - [ ] TailwindCSS
-  - [ ] UIkit
+  - [x] TailwindCSS
+  - [x] UIkit
 
 * Famous Programmers
   - [ ] Audrey Tang
   - [ ] Barbara Liskov
-  - [ ] Brendan Eich
+  - [x] Brendan Eich
   - [x] Hedy Lamarr
   - [ ] Mary Wilkes
   - [ ] Richard Stallman
