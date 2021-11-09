@@ -39,19 +39,19 @@
 
 | Order | Speaker |    Topic     | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------: | :----------: | :----------: |
-| 1     | Sean    | Functions that do more than one thing|              |   Goretti    |
+| 1     | Sean    | Functions that do more than one thing|    Ying          |   Goretti    |
 | 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
 | 3     |         |              |              |              |
-| 4     | Nathan  | UiKit        |              |Sean          |
+| 4     | Nathan  | UiKit        |     Ying     |Sean          |
 | 5     |         |              |              |              |
-| 6     |         |              |   Goretti    |   Nathan     |
+| 6     |   Ying  | Currying and partial application|   Goretti    |   Nathan     |
 
 ## Topics
 
 - Functional Programming
 
   - [x] What is functional programming
-  - [ ] Currying and partial application
+  - [x] Currying and partial application
 
 - Design patterns
 
