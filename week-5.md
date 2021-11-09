@@ -39,9 +39,9 @@
 
 | Order | Speaker |    Topic     | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------: | :----------: | :----------: |
-| 1     | Sean    | Functions that do more than one thing|    Ying          |   Goretti    |
+| 1     | Sean    | Functions that do more than one thing|              |   Goretti    |
 | 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
-| 3     |         |              |              |              |
+| 3     |         |              |              |     Ying         |
 | 4     | Nathan  | UiKit        |     Ying     |Sean          |
 | 5     |         |              |              |              |
 | 6     |   Ying  | Currying and partial application|   Goretti    |   Nathan     |
