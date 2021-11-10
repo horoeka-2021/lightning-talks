@@ -33,7 +33,7 @@
 | 3     |  Vimal  | TypeScript  |     ben      |    Crystal   |
 | 4     | Josh        | Purposeless conditions            |    Vimal     |     ben      |
 | 5     | Crystal |      D3.js  |              |              |
-| 6     |         |             |    Crystal   |   Josh           |
+| 6     |  Seshan   | Model View Controller (MVC) |    Crystal   |   Josh           |
 
 ### Group 3
 
@@ -57,7 +57,7 @@
 
   - [ ] Strategy Design Pattern(SDP)
   - [ ] Observer Design Pattern
-  - [ ] Model View Controller (MVC)
+  - [x] Model View Controller (MVC)
 
 - NoSQL databases
 
