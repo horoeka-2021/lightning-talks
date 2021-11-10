@@ -28,21 +28,21 @@
 
 | Order | Speaker |    Topic    | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---------: | :----------: | :----------: |
-| 1     | Lauren  | Hedy Lamarr |    Vimal     |  Josh            |
+| 1     | Lauren  | Hedy Lamarr |    Vimal     |  Sesh            |
 | 2     |   ben   |  three.js   |    Lauren    |   Josh           |
 | 3     |  Vimal  | TypeScript  |     ben      |    Crystal   |
-| 4     | Josh        | Purposeless conditions            |    Vimal     |     ben      |
-| 5     | Crystal |      D3.js  |              |              |
-| 6     |         |             |    Crystal   |              |
+| 4     | Josh    | Purposeless conditions |    Vimal     |     ben      |
+| 5     | Crystal |      D3.js  | Sesh         |     Josh         |
+| 6     |   Sesh  |     ?       |    Crystal   |        Lauren      |
 
 ### Group 3
 
 | Order | Speaker |    Topic     | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------: | :----------: | :----------: |
-| 1     | Sean    | Functions that do more than one thing|        Ying      |   Goretti    |
+| 1     | Sean    | Functions that do more than one thing|        Ying      |   Angus    |
 | 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
-| 3     | Angus   | `use strict` |              |              |
-| 4     | Nathan  | UiKit        |     Ying     |Sean          |
+| 3     | Angus   | `use strict` |      Ying        |      Goretti        |
+| 4     | Nathan  | UiKit        |     Angus     |Sean          |
 | 5     |         |              |              |              |
 | 6     |   Ying  | Currying and partial application|   Goretti    |   Nathan     |
 
