@@ -29,11 +29,11 @@
 | Order | Speaker |    Topic    | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---------: | :----------: | :----------: |
 | 1     | Lauren  | Hedy Lamarr |    Vimal     |  Josh            |
-| 2     |   ben   |  three.js   |    Lauren    |   Josh           |
+| 2     |   ben   |  three.js   |    Lauren    |              |
 | 3     |  Vimal  | TypeScript  |     ben      |    Crystal   |
 | 4     | Josh        | Purposeless conditions            |    Vimal     |     ben      |
 | 5     | Crystal |      D3.js  |              |              |
-| 6     |         |             |    Crystal   |              |
+| 6     |         |             |    Crystal   |   Josh           |
 
 ### Group 3
 
