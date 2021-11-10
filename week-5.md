@@ -29,11 +29,11 @@
 | Order | Speaker |    Topic    | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :---------: | :----------: | :----------: |
 | 1     | Lauren  | Hedy Lamarr |    Vimal     |  Josh            |
-| 2     |   ben   |  three.js   |    Lauren    |              |
+| 2     |   ben   |  three.js   |    Lauren    |   Josh           |
 | 3     |  Vimal  | TypeScript  |     ben      |    Crystal   |
 | 4     | Josh        | Purposeless conditions            |    Vimal     |     ben      |
 | 5     | Crystal |      D3.js  |              |              |
-| 6     |  Seshan   | Model View Controller (MVC) |    Crystal   |   Josh           |
+| 6     |         |             |    Crystal   |              |
 
 ### Group 3
 
@@ -41,7 +41,7 @@
 | ----- | :-----: | :----------: | :----------: | :----------: |
 | 1     | Sean    | Functions that do more than one thing|        Ying      |   Goretti    |
 | 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
-| 3     |         |              |              |              |
+| 3     | Angus   | `use strict` |              |              |
 | 4     | Nathan  | UiKit        |     Ying     |Sean          |
 | 5     |         |              |              |              |
 | 6     |   Ying  | Currying and partial application|   Goretti    |   Nathan     |
@@ -57,7 +57,7 @@
 
   - [ ] Strategy Design Pattern(SDP)
   - [ ] Observer Design Pattern
-  - [x] Model View Controller (MVC)
+  - [ ] Model View Controller (MVC)
 
 - NoSQL databases
 
@@ -83,7 +83,7 @@
 
 - JavaScript
 
-  - [ ] `'use strict'`
+  - [x] `'use strict'`
   - [ ] StandardJS
 
 - Transpiled languages
