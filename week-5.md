@@ -40,11 +40,11 @@
 | Order | Speaker |    Topic     | Feedbacker 1 | Feedbacker 2 |
 | ----- | :-----: | :----------: | :----------: | :----------: |
 | 1     | Sean    | Functions that do more than one thing|        Ying      |   Angus    |
-| 2     | Goretti | Brendan Eich |Sean          |   Nathan     |
-| 3     | Angus   | `use strict` |      Ying        |      Goretti        |
-| 4     | Nathan  | UiKit        |     Angus     |Sean          |
+| 2     | Goretti | Brendan Eich |     Sean     |   Nathan     |
+| 3     | Angus   | `use strict` |     Ying     |   Goretti    |
+| 4     | Nathan  | Roy Fielding |     Angus    |    Sean      |
 | 5     |         |              |              |              |
-| 6     |   Ying  | Currying and partial application|   Goretti    |   Nathan     |
+| 6     |  Ying   | Currying and partial application|   Goretti    |   Nathan     |
 
 ## Topics
 
@@ -112,7 +112,7 @@
 - UI Framework
 
   - [x] TailwindCSS
-  - [x] UIkit
+  - [ ] UIkit
 
 * Famous Programmers
   - [ ] Audrey Tang
@@ -121,7 +121,7 @@
   - [x] Hedy Lamarr
   - [ ] Mary Wilkes
   - [ ] Richard Stallman
-  - [ ] Roy Fielding
+  - [x] Roy Fielding
   - [ ] Sandi Metz
   - [x] Steve Wozniak
 
